@@ -1,6 +1,6 @@
 {
-    "name": "daftpoint.teamworkserver",
-    "title": "Teamwork-Server for StarUML",
+    "name": "jackblaze.teamworkserver",
+    "title": "Teamwork-Server",
     "description": "Extension to provide git functionality and enable collaborative work.",
     "homepage": "https://github.com/DaftPoint/StarUML.Teamwork",
     "issues": "https://github.com/DaftPoint/StarUML.Teamwork/issues",
